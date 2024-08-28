@@ -1,4 +1,6 @@
-# Task 2
+#Secure GitOps Room
+
+## Task 2
 
 The first actionable task of the room describes the foundational concepts of GitOps which are:
 - Declarative Configuration
@@ -11,11 +13,11 @@ It also goes over two of the foundational GitOps tools both are listed below and
 - [Flux] (https://fluxcd.io/flux/concepts/)
 
 
-# Task 3
+## Task 3
 
 This task covers the importants of kubernetes in GitOps. The ability to scale, load balance, and monitor health are key in making it the preferred engine for GitOps
 
-# Task 4
+## Task 4
 
 This task highlighted the big challenges of each of the components of GitOps noting that with the benefits, comes challenges.
 
@@ -35,7 +37,7 @@ References
 - [K8 Security Best Practices] (https://tryhackme.com/r/room/k8sbestsecuritypractices)
 
 
-# Task 5
+## Task 5
 
 This task goes into applying some of what we gathered about Argo CD specifically. Once the machines and Attack Box have both been spun up you'll be able to hit the Argo server via the browser in the AttackBox
 
