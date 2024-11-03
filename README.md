@@ -2,6 +2,9 @@
 
 This repository contains write-up documentation on the different TryHackMe Rooms that I complete each week. Each write-up includes detailed steps, commands used, and explanations of the techniques and tools employed to solve the challenges.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2436030" style='border:none;'></iframe>
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
