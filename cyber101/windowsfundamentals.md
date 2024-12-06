@@ -15,3 +15,5 @@ tasklist /FI "imagename eq notepad.exe"
 taskkill /PID 1234
 
 
+## Stored Passwords
+Windows uses a SAM file database to store credentials on the system. Generally can be found in the C:/Windows/System32/config folder
