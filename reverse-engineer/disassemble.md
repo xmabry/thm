@@ -1,0 +1,1 @@
+This is the process of taking a compiled binary and breaking it down to the assembly language which is what the computer will actually execute when the program is running.
